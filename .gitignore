@@ -1,6 +1,5 @@
 .vscode
 private
 clab-*
-site/
 tmp
 .*clab.y*ml
