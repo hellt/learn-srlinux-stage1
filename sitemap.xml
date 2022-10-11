@@ -56,7 +56,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://learn.srlinux.dev/ndk/apps/catalog/</loc>
+         <loc>https://learn.srlinux.dev/ndk/apps/</loc>
          <lastmod>2022-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -67,6 +67,11 @@
     </url>
     <url>
          <loc>https://learn.srlinux.dev/ndk/apps/kbutler/</loc>
+         <lastmod>2022-10-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://learn.srlinux.dev/ndk/apps/satellite/</loc>
          <lastmod>2022-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
